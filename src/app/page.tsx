@@ -1,4 +1,4 @@
-// app/page.tsx
+
 import Calculator from "@/components/Calculator";
 
 export default function Page() {
